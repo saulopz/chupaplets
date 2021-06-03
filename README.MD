@@ -10,6 +10,8 @@ This was the first computer game I developed. At the time, the first half of 199
 
 The goal of getting inspired by a ready-made game was to understand the mechanics and try to replicate them. The code isn't the best and have so many problems, but it's what I was able to do at the time without much knowledge and with very little access to documents about digital game development. Images are hardcoded in source code and manually painted pixel by pixel on the screen.
 
+![Screenshot](IMG/plets_01.png)
+
 I also used some third-party code and included it here.
 
 I'm providing the source code and executables. I managed to compile and run smoothly using the DOSBox program. I've tested it on Linux, but I believe you'll have no problem doing the same on Windows or MacOS.
