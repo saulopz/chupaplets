@@ -27,7 +27,7 @@ Well, feel free if you want to contribute and fix my code for Free Pascal. I wil
   * EGAVGA.BGI: graphic driver.
   * PLETS.EXE: game executable.
   * PLETS.FSE: default level file.
-  * PLETS.SND: sound resources (I really can't remember how I create this file).
+  * PLETS.SND: sound resources (I really can't remember how I created this file).
 * SRC: source codes
   * EDITPL: source code of level editor.
   * PLETS: source code of game.
